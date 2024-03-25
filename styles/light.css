@@ -30,7 +30,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  .page.theme_auto {
+  :root {
     --background-color: #FFF1F7;
     --accent-color: #FF8DCB;
     --accent-color-hover: rgba(50, 49, 45, 0.4);
